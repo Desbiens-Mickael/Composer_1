@@ -1,0 +1,16 @@
+{
+    "name": "desbi/test_composer_1",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mickael Desbiens",
+            "email": "desbiens.mickael01@gmail.com"
+        }
+    ],
+    "require": {}
+}
